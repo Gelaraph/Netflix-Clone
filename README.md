@@ -1,3 +1,3 @@
 # Netflix-Clone
 
-## Live Link: https://steady-baklava-e0df75.netlify.app/
+## Live Link: https://tranquil-longma-c34b06.netlify.app
